@@ -8,11 +8,11 @@ declared, initialized, read , reassigned,...
 */
 
 // trace the program a few times with different values
-// declare a variable x and intilize it to the value 'welcome to my world'
+// declare a variable  message and intilize it to the value 'welcome to my world'
 let message = 'welcome to my world';
 
 
-// declare a variable y and intilize it to the value ' Rahatab'
+// declare a variable userName and intilize it to the value ' Rahatab'
 let userName = ' Rahatab';
 
 //read the variable message
